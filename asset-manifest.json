@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vic/static/css/main.1fa90404.css",
+    "main.js": "/vic/static/js/main.dc9c0d33.js",
+    "static/js/787.9b753968.chunk.js": "/vic/static/js/787.9b753968.chunk.js",
+    "static/media/perfume11.jpg": "/vic/static/media/perfume11.732c041523438a8dc537.jpg",
+    "static/media/carousel3.jpg": "/vic/static/media/carousel3.b5db0ee874917e3935e2.jpg",
+    "static/media/perfume1.jpg": "/vic/static/media/perfume1.97dfd4dfd620b319ed73.jpg",
+    "static/media/hero.jpg": "/vic/static/media/hero.be036c1d43163913cd7d.jpg",
+    "static/media/carousel4.jpg": "/vic/static/media/carousel4.3b4f3a1a022608331208.jpg",
+    "static/media/essence.jpg": "/vic/static/media/essence.6eb64b3c4b9fe690ae4d.jpg",
+    "static/media/perfume2.jpg": "/vic/static/media/perfume2.ddbec6114f2b308f7e5a.jpg",
+    "static/media/model.jpg": "/vic/static/media/model.0608b5ba74966ba51603.jpg",
+    "static/media/carousel2.jpg": "/vic/static/media/carousel2.b9bb4cf6bbda6be22be5.jpg",
+    "static/media/perfume.jpg": "/vic/static/media/perfume.0da6860820335ef97be4.jpg",
+    "static/media/carousel1.jpg": "/vic/static/media/carousel1.060f2b130c66d0d8f8a8.jpg",
+    "static/media/banner2.jpg": "/vic/static/media/banner2.020ea7759cce86318584.jpg",
+    "index.html": "/vic/index.html",
+    "main.1fa90404.css.map": "/vic/static/css/main.1fa90404.css.map",
+    "main.dc9c0d33.js.map": "/vic/static/js/main.dc9c0d33.js.map",
+    "787.9b753968.chunk.js.map": "/vic/static/js/787.9b753968.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa90404.css",
+    "static/js/main.dc9c0d33.js"
+  ]
+}
